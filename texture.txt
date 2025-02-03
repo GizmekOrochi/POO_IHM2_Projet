@@ -1,0 +1,21 @@
+differant type enemy:
+
+    LIGHT, monster null
+    NORMAL, soldat de base
+    ARMORED, commandant
+    COLOSAL, tank / Grros monstre
+    BEHEMOTH; the Big boss
+    
+differant type environement:
+
+	mur très dur
+	mur mornal
+	truc sur le chemin genre fleur ou ZAAAAAAACCCCCCCCCCK
+	
+monster neutre:
+
+Tu peux plusieurs sprits pour chaque truc
+
+Joueur:
+
+Terre:
